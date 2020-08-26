@@ -1,0 +1,48 @@
+header{
+    background-color: black;
+    width: 1350px;
+    height: 200px;
+    color: white;
+    font-size: xx-large;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Poppins', sans-serif
+}
+
+
+a{
+    color: grey;
+    font-size: small;
+}
+
+img{
+    height: 100px;
+}
+
+nav{
+    background-color: grey;
+    width: 1350px;
+    height: 10px;
+}
+
+main{
+    color: blue;
+    width: 1350;
+    height: 200px;
+}
+
+.box1{
+    height: 400px;
+    width: 675px;
+    background-color: olive;
+    float: left;
+}
+
+.box2{
+    height: 400px;
+    height: 675px;
+    background-color: dimgray;
+    float: left;
+}
